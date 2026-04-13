@@ -1,6 +1,6 @@
 import cv2
 from deepface import DeepFace
-
+#Using cv2
 cap = cv2.VideoCapture(0)
 
 while True:
